@@ -21,11 +21,12 @@
             <artifactId>android</artifactId>
             <scope>provided</scope>
         </dependency>
-<dependency>
-  <groupId>com.android.support</groupId>
-  <artifactId>support-v4</artifactId>
-  <version>18.0.0</version>
-</dependency>
+		<dependency>
+  			<groupId>com.android.support</groupId>
+ 			<artifactId>support-v4</artifactId>
+  			<version>18.0.0</version>
+           	<scope>provided</scope>
+		</dependency>
 
 		<dependency>
   			<groupId>hirondelle</groupId>
